@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mitchell Quevedo</h1>
 <h3 align="center">A passionate frontend developer from Medellín, Colombia.</h3>
 
-- 🌱 I’m currently learning **Full Stack Udemy,Full Stack in FreecodeCamp**
+- 🌱 I’m currently learning **Figma and Front-end in FreecodeCamp**
 
 - 💬 Ask me about **JavaScript, CSS, HTML**
 
